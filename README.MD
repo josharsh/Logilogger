@@ -22,7 +22,7 @@ npm i logi-logger
 Before using the logger, initialize it with your GCS bucket details:
 
 ```typescript
-import { logilogger } from 'logi-logger';
+import logilogger from 'logi-logger';
 
 logger.initialize('YOUR_BUCKET_NAME', 'PATH_TO_SERVICE_ACCOUNT_JSON');
 ```

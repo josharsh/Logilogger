@@ -1,6 +1,6 @@
 {
   "name": "logi-logger",
-  "version": "1.0.11",
+  "version": "1.0.14",
   "description": "Logi-logger overrides the logger and stores logical logs on your cloud bucket",
   "main": "./dist/logger.js",
   "types": "./dist/logger.d.ts",
